@@ -41,6 +41,7 @@
 
 <br clear="both">
 
+<!-- Verifique se a URL está correta e se o arquivo existe -->
 <img src="https://raw.githubusercontent.com/DevStrawberry/DevStrawberry/output/snake.svg" alt="Snake animation" />
 
 ###
